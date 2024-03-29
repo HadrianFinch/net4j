@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClientApp",
+            "request": "launch",
+            "mainClass": "com.skadoosh.netmark.test.ClientApp",
+            "projectName": "NetMark_808ddda"
+        },
+        {
+            "type": "java",
+            "name": "ServerApp",
+            "request": "launch",
+            "mainClass": "com.skadoosh.netmark.test.ServerApp",
+            "projectName": "NetMark_808ddda"
+        }
+    ]
+}
